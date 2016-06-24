@@ -1,1 +1,1 @@
-# UGR---Sistemas-Operativos
+Practicas resueltas de Sistemas Operativos
